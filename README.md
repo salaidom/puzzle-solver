@@ -5,7 +5,7 @@ This is a demo application for solving the puzzle problem.
 - Node application (should be run through `npm` or `yarn`) or via `node` itself
 - Program uses brute force algorithm with nested loops and recursion (VERY INEFFICIENT, but problem description stated it does not have to be optimized)
 - Program also uses puzzle rotation
-- Due to memory conciousness, program uses direct board manipulation and needed implementatio of additional methods
+- Due to memory consciousness, program uses direct board manipulation and needed implementation of additional methods
 - Program prints board area when first solution is found
 - Program does not print anything when no solution can be found
 
